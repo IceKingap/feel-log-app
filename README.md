@@ -85,7 +85,7 @@
 ./gradlew :app:testDebugUnitTest
 ```
 
-Android Studio で `C:\Users\sato\AIprojects\feel-log-app` を開けば Gradle Sync 後すぐに Run できます。
+Android Studio で `C:\Users\\AIprojects\feel-log-app` を開けば Gradle Sync 後すぐに Run できます。
 
 ## プロジェクト構成
 
